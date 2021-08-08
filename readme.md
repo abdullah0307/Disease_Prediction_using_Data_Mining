@@ -1,6 +1,10 @@
 # Disease Prediction using Data Mining
 
-![Instance Segmentation Sample](data/microscope.png)
+![Instance Segmentation Sample](data/1.png)
+![Instance Segmentation Sample](data/2.png)
+![Instance Segmentation Sample](data/3.png)
+![Instance Segmentation Sample](data/4.png)
+![Instance Segmentation Sample](data/5.png)
 
 ## Libraries requirements
 * PyQt5~=5.15.2
